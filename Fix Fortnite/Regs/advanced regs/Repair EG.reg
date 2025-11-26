@@ -1,0 +1,5 @@
+[-HKEY_CURRENT_USER\Software\Epic Games\EpicGamesLauncher]
+[-HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Epic Games\EpicGamesLauncher]
+
+[HKEY_CURRENT_USER\Software\Epic Games\EpicGamesLauncher]
+"RebuildState"="1"
